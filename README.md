@@ -8,6 +8,7 @@ is put in the directory "models"
 File discriptions
 
 MNet_with_Power_3_disease.py: Deep neural network model for classifying 3 diseases.
+
 MNet_with_Power_before_fc_13.py: Deep neural network model for classifying 2 diseases.
 
 The code is written by python and chianer(version = '5.0.0').
